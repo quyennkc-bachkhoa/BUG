@@ -347,3 +347,4 @@
 - **Cần xác nhận hành vi mong muốn:** B17 (chặn hay tự đưa bitrate về 320), B19 (chặn số âm hay tự đưa về 0), B21 (yêu cầu có bắt buộc bỏ khoảng trắng không).
 - **Đề xuất nâng mức độ:** B03, B04 (chức năng hỏng hoàn toàn), B05–B07 (cả chức năng dịch không dùng được), B10, B12 (mất dữ liệu người dùng) đang ở mức Trung bình; nên cân nhắc nâng lên Cao.
 - Mỗi bug còn có file trace Playwright để xem lại từng bước; trace được lưu trong hệ thống test, không đính kèm ở đây.
+
